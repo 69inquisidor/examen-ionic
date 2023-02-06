@@ -1,0 +1,14 @@
+ion-button {
+    --box-shadow: none;
+    --border-radius: 10px;
+    --background: linear-gradient(
+      90deg,
+      rgb(240, 54, 54) 0%,
+      rgb(252, 18, 18) 100%
+    );
+    height: 48px;
+    font-size: 1rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    text-transform: initial;
+  }

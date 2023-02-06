@@ -1,0 +1,606 @@
+[
+    {
+        "score": 0.74205303,
+        "show": {
+            "id": 46584,
+            "url": "https://www.tvmaze.com/shows/46584/drama",
+            "name": "Drama",
+            "type": "Scripted",
+            "language": "Spanish",
+            "genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 25,
+            "averageRuntime": 25,
+            "premiered": "2020-02-04",
+            "ended": "2020-02-25",
+            "officialSite": "http://www.rtve.es/playz/drama/",
+            "schedule": {
+                "time": "19:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 4,
+            "network": {
+                "id": 147,
+                "name": "RTVE",
+                "country": {
+                    "name": "Spain",
+                    "code": "ES",
+                    "timezone": "Europe/Madrid"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 376734,
+                "imdb": "tt11341924"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/244/611819.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/244/611819.jpg"
+            },
+            "summary": "<p><b>Drama</b> tells Africa's story (Elisabet Casanovas), a 20-year-old who lives in a shared apartment that is falling apart, has a precarious job and sees how her life changes radically when she discovers she got pregnant and does not know by whom.</p>",
+            "updated": 1645943834,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/46584"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1812874"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6933962,
+        "show": {
+            "id": 54148,
+            "url": "https://www.tvmaze.com/shows/54148/drama-club",
+            "name": "Drama Club",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Children"
+            ],
+            "status": "To Be Determined",
+            "runtime": 23,
+            "averageRuntime": 29,
+            "premiered": "2021-03-13",
+            "ended": null,
+            "officialSite": "https://www.nick.com/shows/drama-club",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 80,
+            "network": null,
+            "webChannel": {
+                "id": 263,
+                "name": "Nick App",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 398229,
+                "imdb": "tt14239088"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/300/750576.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/300/750576.jpg"
+            },
+            "summary": "<p>A mockumentary-style series follows a group of middle schoolers as they shine a light on the inner workings of their school's overlooked drama club.</p>",
+            "updated": 1633933592,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/54148"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2085919"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6861702,
+        "show": {
+            "id": 33514,
+            "url": "https://www.tvmaze.com/shows/33514/drama-stage",
+            "name": "Drama Stage",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Running",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2017-12-02",
+            "ended": null,
+            "officialSite": "http://program.tving.com/tvn/dramastage2020/1/Vod/List",
+            "schedule": {
+                "time": "00:10",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 69,
+            "network": {
+                "id": 280,
+                "name": "tvN",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 338693,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/427/1069442.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/427/1069442.jpg"
+            },
+            "summary": "<p><b>Drama Stage</b> is an anthology series that features different stories, cast members and production teams each week, and is presented single episodes by tvN.</p><p>tvN drama project <b>O'PENing</b> (오프닝)<br />From 2017 to 2021, he served as a gateway to new writers.<br />This is a new name for the tvN 'Drama Stage' series.<br />[O'PENing] is CJ ENM's new storyteller support project<br />It is a drama project consisting of 10 works that were won in the 'O'PEN' contest.<br />The meaning of 'beginning' of a new writer from 'Offen' and<br />It contains the meaning of 'a new story unfolds' that has never been seen before.<br />As we approach viewers under the new name of [O'PENing],<br />In addition to the one-act plays seen in the existing 'Drama Stage',<br />With the newly introduced 'Short Form' (two or four episodes)<br />It also attempts to change genres that can be enjoyed quickly and compactly.<br />The newly reborn [O'PENing]<br />It is a new and colorful story that does not limit the form and subject.<br />It will make the audience more enjoyable.</p>",
+            "updated": 1667209336,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/33514"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2419905"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6759259,
+        "show": {
+            "id": 28689,
+            "url": "https://www.tvmaze.com/shows/28689/drama-festival",
+            "name": "Drama Festival",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2013-10-02",
+            "ended": "2014-12-07",
+            "officialSite": "http://www.imbc.com/broad/tv/drama/festival/index.html",
+            "schedule": {
+                "time": "00:05",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 56,
+            "network": {
+                "id": 166,
+                "name": "MBC",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 288296,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/285824.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/285824.jpg"
+            },
+            "summary": "<p><b>Drama Festival</b> is a series of 10 one-act dramas. It will feature dramas by up and coming directors and writers as well as unconventional and experimental works. This marks the return of MBC one-act series after six years since Best Theater in 2007.</p>",
+            "updated": 1574298567,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/28689"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1192432"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6740506,
+        "show": {
+            "id": 5804,
+            "url": "https://www.tvmaze.com/shows/5804/dubplate-drama",
+            "name": "Dubplate Drama",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Music"
+            ],
+            "status": "Ended",
+            "runtime": 20,
+            "averageRuntime": 20,
+            "premiered": "2005-11-11",
+            "ended": "2009-07-03",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 54,
+            "network": {
+                "id": 45,
+                "name": "Channel 4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.channel4.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 17882,
+                "thetvdb": 263336,
+                "imdb": "tt0499386"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/57843.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/57843.jpg"
+            },
+            "summary": "<p>When you start from the bottom there are problems at every turn. Issues to sort out, decisions to be made. But it doesn't mean you can't make it. It's time to put yourself in Dionne's shoes. Her fate is in your hands. Get thinking. Get Voting. It's <b>Dubplate Drama</b>.</p>",
+            "updated": 1505938659,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/5804"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/348916"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.6302395,
+        "show": {
+            "id": 33239,
+            "url": "https://www.tvmaze.com/shows/33239/drama-connections",
+            "name": "Drama Connections",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2005-09-06",
+            "ended": "2005-11-08",
+            "officialSite": null,
+            "schedule": {
+                "time": "22:35",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 26,
+            "network": {
+                "id": 12,
+                "name": "BBC One",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbcone"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 287954,
+                "imdb": null
+            },
+            "image": null,
+            "summary": "<p>This documentary series looks at the stories behind the production of some of Britain's most popular drama television programmes, and their relationships with other drama series.</p>",
+            "updated": 1573398376,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/33239"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1352051"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.59400845,
+        "show": {
+            "id": 28708,
+            "url": "https://www.tvmaze.com/shows/28708/kbs-drama-special",
+            "name": "KBS Drama Special",
+            "type": "Scripted",
+            "language": "Korean",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "status": "Running",
+            "runtime": 70,
+            "averageRuntime": 63,
+            "premiered": "2010-05-15",
+            "ended": null,
+            "officialSite": "http://program.kbs.co.kr/2tv/drama/dramaspecial2020/pc/index.html",
+            "schedule": {
+                "time": "23:20",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 68,
+            "network": {
+                "id": 128,
+                "name": "KBS2",
+                "country": {
+                    "name": "Korea, Republic of",
+                    "code": "KR",
+                    "timezone": "Asia/Seoul"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 213731,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/286162.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286162.jpg"
+            },
+            "summary": "<p><b>KBS Drama Special </b>is an anthology series that features different stories, cast members and production teams each week, and is presented single episodes.</p>",
+            "updated": 1666606494,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/28708"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2419172"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5722884,
+        "show": {
+            "id": 4779,
+            "url": "https://www.tvmaze.com/shows/4779/total-drama-island",
+            "name": "Total Drama Island",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2007-07-08",
+            "ended": "2008-01-04",
+            "officialSite": null,
+            "schedule": {
+                "time": "20:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": 7.4
+            },
+            "weight": 45,
+            "network": {
+                "id": 11,
+                "name": "Cartoon Network",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 19229,
+                "thetvdb": 83294,
+                "imdb": "tt1173427"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/53150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/53150.jpg"
+            },
+            "summary": "<p>This animated take on the reality genre sees twenty-two teens competing in physical challenges in a dilapidated summer camp setting over a sixty day period.</p>",
+            "updated": 1635404341,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/4779"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/304899"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.57091206,
+        "show": {
+            "id": 4778,
+            "url": "https://www.tvmaze.com/shows/4778/total-drama-action",
+            "name": "Total Drama Action",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2009-01-11",
+            "ended": "2009-12-10",
+            "officialSite": null,
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": 7.5
+            },
+            "weight": 44,
+            "network": {
+                "id": 11,
+                "name": "Cartoon Network",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 26371,
+                "thetvdb": 105601,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/53125.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/53125.jpg"
+            },
+            "summary": "<p><b>Total Drama Action</b> is the second season of the Canadian animated television series Total Drama Island. The show premiered in Teletoon Canada 6:30 et/pt on January 11, 2009. This series was also created by the makers of 6Teen, another Teletoon program. Like its predecessor, Total Drama Island, this season's series is an \"animated reality show\" starring fifteen teenagers. This series still portrays likeliness towards other physical and social shows, like Fear Factor and The Real World. The original twenty-two \"campers\" were cut down to fifteen \"cast-mates\" after the reunion special's dramatic ending between these seasons. Both host and assistant Chris McClean and Chef Hatchet will return as the cast-mates' supervisors and challenge distributors. The theme of this series is \"Cinematography\".</p>",
+            "updated": 1635406236,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/4778"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/304872"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.56988305,
+        "show": {
+            "id": 4780,
+            "url": "https://www.tvmaze.com/shows/4780/total-drama-all-stars",
+            "name": "Total Drama All-Stars",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2013-09-10",
+            "ended": "2013-12-03",
+            "officialSite": null,
+            "schedule": {
+                "time": "19:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": 7.8
+            },
+            "weight": 43,
+            "network": {
+                "id": 11,
+                "name": "Cartoon Network",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 273128,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/53151.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/53151.jpg"
+            },
+            "summary": "<p><b>Total Drama All-Stars</b> is a fictional titular reality show that follows the competition of fourteen returning teenagers at Camp Wawanakwa, a fictional island located in an unspecified area in Muskoka, Ontario, The campers participate in themed challenges and must avoid being voted off the island by their fellow campers. At the end of the series, the winning contestant or the last camper to stand on the island will win C$1,000,000. The competition is hosted by Chris McLean, who is assisted by the camp's chef, Chef Hatchet.</p>",
+            "updated": 1635404796,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/4780"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/304912"
+                }
+            }
+        }
+    }
+]

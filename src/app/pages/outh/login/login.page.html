@@ -1,0 +1,32 @@
+
+
+
+<ion-content class="ion-padding">
+    <div class="center">
+      <img src="https://ionicframework.com/docs/img/demos/thumbnail.svg" class="smallLogo"/>
+      <h1>Design and Implementation</h1>
+    </div>
+  <form>
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">Usuario</ion-label>
+        <ion-input autocomplete="off" type="text" name="usuario" [(ngModel)]="model.usuario"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label position="stacked">Contraseña</ion-label>
+        <ion-input autocomplete="off" type="password" name="password" [(ngModel)]="model.contrasenia"></ion-input>
+      </ion-item>
+
+    </ion-list>
+    
+    <section class="full-width">
+      <ion-button expand="full" color="success" (click)="loginAction()">Login</ion-button>
+    </section>
+
+    <section class="full-width">
+      <ion-button expand="full" color="success" (click)="btnRegistro_clic()">Registro</ion-button>
+    </section>
+
+  </form>
+</ion-content>

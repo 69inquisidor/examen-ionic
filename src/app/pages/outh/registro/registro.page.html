@@ -1,0 +1,56 @@
+
+
+
+<ion-content class="ion-padding">
+  <div class="center">
+    <img src="https://ionicframework.com/docs/img/demos/thumbnail.svg" class="smallLogo"/>
+    <h1>Bienvenido</h1>
+  </div>
+<form>
+  <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Nombre completo</ion-label>
+      <ion-input autocomplete="off" type="text" name="nombrecompleto" [(ngModel)]="model.nombrecompleto"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Usuario</ion-label>
+      <ion-input autocomplete="off" type="text" name="usuario" [(ngModel)]="model.usuario"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Contraseña</ion-label>
+      <ion-input autocomplete="off" type="password" name="password" [(ngModel)]="model.contrasenia"></ion-input>
+    </ion-item>
+
+  </ion-list>
+  
+  <section class="full-width">
+    <ion-button expand="full" color="success" (click)="submitForm()">Registrar</ion-button>
+  </section>
+
+  <section class="full-width">
+    <ion-button expand="full" color="success" (click)="back()">Cancelar</ion-button>
+  </section>
+
+</form>
+</ion-content>
+<!-- <ion-content class="ion-padding">
+  <h1>Registro</h1>
+
+  <form [formGroup]="registroForm">
+    <div class="input-group">
+      <app-input label="Nombre completo" formControlName="nombrecompleto" [(ngModel)]="model.nombrecompleto"></app-input>
+    </div>
+    <div class="input-group">
+      <app-input label="Usuario" formControlName="usuario" [(ngModel)]="model.usuario"></app-input>
+    </div>
+    <div class="input-group">
+      <app-input label="Contraseña" formControlName="contrasenia" type="password" [(ngModel)]="model.contrasenia"></app-input>
+    </div>
+   
+
+    <app-button  label='Registrar' (click)="registrar()"></app-button>
+  </form>
+  <app-buttonc label='Cancelar'></app-buttonc>
+</ion-content> -->
